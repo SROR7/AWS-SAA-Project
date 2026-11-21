@@ -17,6 +17,12 @@ The infrastructure is deployed inside an Amazon VPC and uses Amazon RDS for mana
 
 ---
 
+## Architecture Components
+
+<p align="center">
+  <img src="./diagrams/architecture.png" alt="AWS Architecture Diagram" width="100%">
+</p>
+
 ## 2. Architecture Components
 
 ### 2.1 DNS and Content Delivery Layer
